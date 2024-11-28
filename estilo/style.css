@@ -72,12 +72,12 @@ section.imagem > p {
     background-color: rgba(0, 0, 0, 0.055);
 }
 section#img01 {
-    background-image: url("/desafios/imagem/background001.jpg");
+    background-image: url("//imagem/background001.jpg");
     background-position: right center;
     background-size: cover;
 }
 section#img02 {
-    background-image: url("/desafios/imagem/background002.jpg");
+    background-image: url("//imagem/background002.jpg");
     background-position: right center;
     background-size: cover;
 }
